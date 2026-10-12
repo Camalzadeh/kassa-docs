@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as s,a2 as r}from"./chunks/framework.DSc8fo6x.js";const k=JSON.parse('{"title":"PDF yüklə","description":"","frontmatter":{},"headers":[],"relativePath":"pdf.md","filePath":"pdf.md"}'),e={name:"pdf.md"};function n(i,a,o,p,f,l){return d(),s("div",null,[...a[0]||(a[0]=[r("",4)])])}const _=t(e,[["render",n]]);export{k as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as d,a2 as s}from"./chunks/framework.DSc8fo6x.js";const c=JSON.parse('{"title":"Download PDF","description":"","frontmatter":{},"headers":[],"relativePath":"en/pdf.md","filePath":"en/pdf.md"}'),r={name:"en/pdf.md"};function o(n,t,i,p,l,f){return e(),d("div",null,[...t[0]||(t[0]=[s("",4)])])}const _=a(r,[["render",o]]);export{c as __pageData,_ as default};
